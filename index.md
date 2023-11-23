@@ -13,11 +13,10 @@ nav_order: 1
     <br><br>
     Neste material será realizado um exercício de busca de material bibilografico usando algumas técnicas consolidadas e então chegaremos a algumas respostas para a informação mais relevante em um mapeamento. Qual artigos devo ler para resolver o meu problema?
     <br><br>
-    Normalmente quando estamos nesse !ramo" da pesquisa científica a duas vias bastante conhecidas: (a) alguém te apresenta um problema; ou (b) vocẽ se interessa por uma determinada área e busca problemas que possam por ventura ser resolvidos com o seu desenvolvimento. 
+    Normalmente quando estamos nesse "ramo" da pesquisa científica a duas vias bastante conhecidas: (a) alguém te apresenta um problema; ou (b) vocẽ se interessa por uma determinada área e busca problemas que possam por ventura ser resolvidos com o seu desenvolvimento. 
     <br><br>
     Independente da via que estamos a questão central é sempre ter em mente qual é o nosso problema de pesquisa. A literatura do assunto fala que precisamos escrever a pergunta da pesquisa. 
     <br><br>
     A pergunta de pesquisa nos ajudará a definir o escopo do nosso problema e por onde podemos começar a procurar evidências, soluções, algoritmos, colegas que já desenvolveram o problema. Para o nosso tutorial utilizaremos a estratégia PICo.
-
-    Uma questão de pesquisa bem definida e clara é um ponto de partida essencial para uma pesquisa sistemática. Para criar uma estratégia de busca lógica, comece sempre identificando os elementos-chave da questão de pesquisa – ou seja, estabeleça quais são os principais conceitos do tema. Com estes conceitos, você pode então criar os blocos de pesquisa que formam a base 
+    <br><br> 
 </p>
