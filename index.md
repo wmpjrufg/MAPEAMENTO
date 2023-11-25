@@ -21,3 +21,4 @@ nav_order: 1
     <br><br> 
     Após a construção da pergunta base começaremos o processo mapeamento sistemático até seja possível estabelecer uma base de textos que possam nos ajudar a responder nossa pergunta base e então criarmos os métodos/usarmos técnicas, algoritmos, metodologias e etc que possam nos guiar no caminho da escrita de um artigo, dissertação, tese e outros.
 </p>
+
